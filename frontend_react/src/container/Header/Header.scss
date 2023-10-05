@@ -157,25 +157,25 @@
 
   @media screen and (min-width: 2000px) {
     div:nth-child(1) {
+      width: 175px;
+      height: 175px;
+    }
+
+    div:nth-child(2) {
+      margin: 3.5rem;
       width: 200px;
       height: 200px;
     }
 
-    div:nth-child(2) {
-      margin: 0.5rem;
-      width: 275px;
-      height: 275px;
-    }
-
     div:nth-child(3) {
-      width: 130px;
-      height: 130px;
+      width: 120px;
+      height: 120px;
     }
 
     div:nth-child(4) {
-      margin: 0.75rem;
-      width: 175px;
-      height: 175px;
+      margin: 2.5rem;
+      width: 150px;
+      height: 150px;
     }
   }
 
