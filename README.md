@@ -12,7 +12,7 @@ This repository is about my portfolio website.
 
 ## Screenshot
 
-![Website screenshots](./demo/)
+![Website screenshots](./demo/screenshot-portfolio.png)
 
 <br/>
 
