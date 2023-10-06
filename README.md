@@ -24,11 +24,3 @@ This repository is about my portfolio website.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=fff&style=for-the-badge)
-
-<br/>
-
-## 💾 Installation
-
-1. Clone the repository: `git clone https://github.com/rado-kolev/portfolio.git`.
-2. Change the directory: `cd .\frontend_react`.
-3. Run: `npm start`.
